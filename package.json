@@ -1,0 +1,27 @@
+{
+  "name": "starwars-names-at",
+  "version": "1.0.0",
+  "description": "Get some startwars names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anishvthomas/starwars-names.git"
+  },
+  "keywords": [
+    "random",
+    "star",
+    "wars"
+  ],
+  "author": "Anish Thomas <anishvtjs@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anishvthomas/starwars-names/issues"
+  },
+  "homepage": "https://github.com/anishvthomas/starwars-names#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.1"
+  }
+}
